@@ -1,0 +1,49 @@
+/* body {
+    background-image:linear-gradient(rgb(0,0,0,0.7),rgba(0,0,0,0.7)), url(./kiraaaaa.jpg);
+    backdrop-filter: brightness(0.1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 110%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+} */
+
+.link {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 165px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ksol {
+    width: 1350px;
+    height: 60px;
+    background-color: rgba(26, 26, 26, 0.315);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px lightgrey;
+    margin-top: 5px;
+
+}
+
+.sol {
+    margin-top: 10px;
+    width: 100px;
+    border-radius: 50%;
+    border: none;
+}
+
+
+
+.kira {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.paragraph {
+    text-align: center;
+}
